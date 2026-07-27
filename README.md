@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**mohammad6701/mohammad6701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student @ UBCO** 
 
-Here are some ideas to get you started:
+Computer Engineering student @ UBCO passionate about silicon, hardware architecture, and low-level systems. My goal is to become an ASIC Design Engineer, designing high-performance digital circuits or specialized silicon solutions. Currently building strong foundations in Software engineering and coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Platforms, Tools & Environments:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📌 What I'm Up To
+
+* 🌱 **Currently Learning:** Python Functions and clases
+* 🎯 **Goals:** Expanding my expertise in python, AI, and C++ to automate workload ralated to hardware design and singals.
+
+---
+
+### 📫 Connect with Me
+
+* **Email:** Amin09304797830@gmail.com
