@@ -20,7 +20,7 @@ Computer Engineering student @ UBCO passionate about silicon, hardware architect
 
 ### 📌 What I'm Up To
 
-* 🌱 **Currently Learning:** Python Functions and clases
+* 🌱 **Currently Learning:** Python : Data Structures
 * 🎯 **Goals:** Expanding my expertise in python, AI, and C++ to automate workload ralated to hardware design and singals.
 
 ---
