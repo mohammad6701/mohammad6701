@@ -2,8 +2,7 @@
 
 🎓 **Computer Engineering Student @ UBCO** 
 
-<h3>Computer Engineering student at UBCO, I am passionate about silicon, hardware architecture, and low-level systems. My goal is to become a Computer Architect Designer or Front-end ASIC Designer. Currently building strong foundations in Software engineering and coding.<h3>
----
+<h2>Computer Engineering student at UBCO, I am passionate about silicon, hardware architecture, and low-level systems. My goal is to become a Computer Architect Designer or Front-end ASIC Designer. Currently building strong foundations in Software engineering and coding.<h2>
 
 ### 🛠️ Tech Stack & Tools
 
