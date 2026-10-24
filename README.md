@@ -2,8 +2,8 @@
 
 🎓 **Computer Engineering Student @ UBCO** 
 
-Computer Engineering student @ UBCO, passionate about silicon, hardware architecture, and low-level systems. My goal is to become a Computer Architect Designer or ASIC Design Engineer, designing digital circuits and specializing in silicon solutions. Currently building strong foundations in Software engineering and coding.
-
+Computer Engineering student @ UBCO, passionate about silicon, hardware architecture, and low-level systems. My goal is to become a Computer Architect Designer or Front-end ASIC Designer. Currently building strong foundations in Software engineering and coding.
+w
 ---
 
 ### 🛠️ Tech Stack & Tools
